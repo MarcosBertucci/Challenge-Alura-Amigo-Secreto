@@ -1,7 +1,9 @@
 // by Marcos Bertucci
 let amigos = [];
 
+
 atualizarListaAmigos()
+
 
 function adicionarAmigo() {
     let inserirAmigo = document.querySelector('input');
@@ -14,7 +16,6 @@ function adicionarAmigo() {
 inserirAmigo.value = "";
 };
 
-
 let lista = document.getElementById('listaAmigos');
 
 function atualizarListaAmigos(){
@@ -24,4 +25,11 @@ function atualizarListaAmigos(){
         li.textContent = amigos[i];
         lista.appendChild(li);
     }
+}
+adicionarAmigo();
+
+let li = document.querySelector('ul')
+function listarAmigos(){
+    li.innerHTML = "";
+
 }
