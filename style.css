@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-primary: #0b7899;
+    --color-secondary: #f0eded;
+    --color-tertiary: #486941;
+    --color-button: #238b99;
+    --color-button-hover: #47e2b4;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white: #043004;
 }
 
 /* Estilos gerais */
@@ -32,7 +32,7 @@ body {
 
 /* Banner */
 .header-banner {
-    flex: 40%;
+    flex: 1%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -82,7 +82,7 @@ body {
 .input-name {
     width: 100%;
     padding: 10px;
-    border: 2px solid #000;
+    border: 2px solid #21a59a;
     border-radius: 25px 0 0 25px;
     font-size: 16px;
 }
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #c50e0e;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
