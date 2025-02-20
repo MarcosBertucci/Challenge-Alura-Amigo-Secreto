@@ -1,3 +1,4 @@
+**By Marcos Bertucci** 
 Link do projeto no GitHub [acesse aqui](https://github.com/MarcosBertucci/Challenge-Alura-Amigo-Secreto "Title")
 
 Aplicativo para descobrir seu amigo secreto
