@@ -1,3 +1,5 @@
+Link do projeto no GitHub [acesse aqui](https://github.com/MarcosBertucci/Challenge-Alura-Amigo-Secreto "Title")
+
 Aplicativo para descobrir seu amigo secreto
 
 **Funcionalidades**
@@ -18,9 +20,9 @@ Abra o arquivo index.html no seu navegador.
 A aplicação estará pronta para ser utilizada!
 
 **Estrutura do Código**
-JavaScript: O código principal do projeto está localizado no arquivo app.js.
-HTML: O arquivo index.html contém a estrutura básica da página, incluindo os campos de input e botões.
-CSS: O arquivo style.css contém as cores e estilizações
+ * JavaScript: O código principal do projeto está localizado no arquivo app.js.
+ * HTML: O arquivo index.html contém a estrutura básica da página, incluindo os campos de input e botões.
+ * CSS: O arquivo style.css contém as cores e estilizações
 
 **Funções Principais**
 adicionarAmigo
