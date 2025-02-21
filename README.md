@@ -1,4 +1,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 **By Marcos Bertucci** 
 Link do projeto no GitHub [acesse aqui](https://github.com/MarcosBertucci/Challenge-Alura-Amigo-Secreto "Title")
 
