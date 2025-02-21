@@ -34,13 +34,13 @@ A aplicação estará pronta para ser utilizada!
 
 **Funções Principais**
 
-adicionarAmigo
+* adicionarAmigo
 Função que adiciona o nome do amigo inserido pelo usuário à lista amigos, caso o campo não esteja vazio.
 
-atualizarListaAmigos
+* atualizarListaAmigos
 Função que atualiza a interface da lista de amigos sempre que um novo amigo é adicionado ou sorteado.
 
-sortearAmigo
+* sortearAmigo
 Função que sorteia aleatoriamente um amigo da lista e o remove após o sorteio.
 
 **Exemplo de Uso**
