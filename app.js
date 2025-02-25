@@ -5,7 +5,7 @@ let amigos = [];
 function adicionarAmigo() {
     let inserirNome = document.querySelector('input');
     if (inserirNome.value === "") {
-        alert('Por favor, insira um nome!');
+        alert('Por favor, insira um nome!!');
     } else {
         amigos.push(inserirNome.value);
     };
@@ -23,6 +23,7 @@ function atualizarListaAmigos() {
         lista.appendChild(li);
     }
 }
+
 // Criando a função para sortear o amigo
 function sortearAmigo() {
     if (amigos.length === 0) {
@@ -36,8 +37,7 @@ function sortearAmigo() {
 
     amigos.splice(numeroDoAmigo, 1);
     atualizarListaAmigos()
- 
-}   
+}  
 
 
 
