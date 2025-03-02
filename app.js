@@ -37,7 +37,4 @@ function sortearAmigo() {
 
     amigos.splice(numeroDoAmigo, 1);
     atualizarListaAmigos()
-}  
-
-
-
+}
