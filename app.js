@@ -27,7 +27,7 @@ function atualizarListaAmigos() {
 // Criando a função para sortear o amigo
 function sortearAmigo() {
     if (amigos.length === 0) {
-        alert('Não há amigos para sortear');
+        alert('Não há mais amigos para sortear');
         return;
     }
     let numeroDoAmigo = Math.floor(Math.random() * amigos.length);
